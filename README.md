@@ -1,5 +1,5 @@
 # CS386-Pong
-This a clone of the game Pong. It is a 2-player game where each player will have 3 paddles instead of only one.
+This a clone of the game Pong. It is a game where you and the CPU player will have 3 paddles instead of only one.
 
 ## Getting Started
 
@@ -21,3 +21,11 @@ If this doesn't work, please refer to the [Pygame Getting Started wiki page](htt
 To run the game, simply run the command:
 
 ```python3 pong.py```
+
+### Controls
+The top and bottom paddles can be controlled with the **left and right arrow keys**.
+
+While the vertical paddle can be controlled with the **up and down arrow keys**.
+
+## Quitting The Game
+To quit the game, simply press the **'q'** key.
